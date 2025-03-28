@@ -1,0 +1,30 @@
+# Ignore o ambiente virtual
+venv/
+.venv/
+
+# Ignore variáveis de ambiente com sua chave da API
+.env
+
+# Arquivos e pastas criadas automaticamente
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de log ou debug
+*.log
+
+# Streamlit cache e configs
+.streamlit/
+.stcache/
+.stfolder/
+
+# Arquivos do VSCode (se você usar)
+.vscode/
+
+# Jupyter Notebook checkpoints (se algum dia usar)
+.ipynb_checkpoints/
+
+# macOS & Windows
+.DS_Store
+Thumbs.db
