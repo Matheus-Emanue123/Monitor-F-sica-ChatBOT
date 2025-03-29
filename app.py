@@ -73,4 +73,4 @@ for msg in st.session_state.chat_history:
 
 # --- Rodapé ---
 st.markdown("---")
-st.markdown("<small>Feito com ❤️ por Matheus Emanuel da Sivca • Usando LLaMA 3 via Groq API</small>", unsafe_allow_html=True)
+st.markdown("<small>Feito com ❤️ por Matheus Emanuel da Silva • Usando LLaMA 3 via Groq API</small>", unsafe_allow_html=True)
