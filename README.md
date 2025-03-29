@@ -10,7 +10,7 @@ Este é um chatbot educacional criado com **Python**, **Streamlit** e **LLM (LLa
 
 ## 🔗 Acesse o App
 
-👉 [Clique aqui para testar o Monitor de Física online](https://seu-app.streamlit.app)
+👉 [Clique aqui para testar o Monitor de Física online](https://monitor-f-sica-chatbot-manytwza373w48xkgrtn5h.streamlit.app)
 
 ---
 
@@ -40,7 +40,7 @@ Este é um chatbot educacional criado com **Python**, **Streamlit** e **LLM (LLa
 
 ```bash
 # Clone o projeto
-git clone https://github.com/seu-usuario/monitor-fisica.git
+git clone https://github.com/Matheus-Emanue123/Monitor-F-sica-ChatBOT.git
 cd monitor-fisica
 
 # Crie um ambiente virtual
